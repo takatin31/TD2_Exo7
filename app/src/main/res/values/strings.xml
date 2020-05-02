@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exo7</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="semaine">Semaine :</string>
+    <string name="_02">02</string>
+    <string name="nombre_de_s_ance">Nombre de séance :</string>
+    <string name="_05">05</string>
+
+    <string-array name="data_menu">
+        <item>Jour</item>
+        <item>Semaine</item>
+        <item>Module</item>
+        <item>Salle</item>
+        <item>Enseignant</item>
+    </string-array>
+</resources>

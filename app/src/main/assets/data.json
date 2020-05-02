@@ -1,0 +1,95 @@
+{
+  "count":3,
+  "seances":[
+    {
+      "seanceId": 0,
+      "jour": "03-05-2020",
+      "semaine": "1",
+      "heureD": "13:00",
+      "heureF": "15:00",
+      "module": "TDM3",
+      "salle": "DPGR",
+      "enseignant": "Mr.Mostefai"
+    },
+     {
+      "seanceId": 1,
+      "jour": "03-05-2020",
+      "semaine": "1",
+      "heureD": "15:00",
+      "heureF": "17:00",
+      "module": "PRJ2",
+      "salle": "S15",
+      "enseignant": "Mr.Batata"
+    },
+     {
+      "seanceId": 2,
+      "jour": "05-05-2020",
+      "semaine": "1",
+      "heureD": "13:00",
+      "heureF": "15:00",
+      "module": "IPLS",
+      "salle": "CP5",
+      "enseignant": "Mr.Challal"
+    },
+    {
+      "seanceId": 3,
+      "jour": "08-05-2020",
+      "semaine": "2",
+      "heureD": "09:00",
+      "heureF": "12:00",
+      "module": "Securite",
+      "salle": "CP4",
+      "enseignant": "Mr.Challal"
+    },
+    {
+      "seanceId": 4,
+      "jour": "09-05-2020",
+      "semaine": "2",
+      "heureD": "09:00",
+      "heureF": "12:00",
+      "module": "ALOG",
+      "salle": "CP4",
+      "enseignant": "Mr.Chebeib"
+    },
+    {
+      "seanceId": 5,
+      "jour": "10-05-2020",
+      "semaine": "2",
+      "heureD": "09:00",
+      "heureF": "12:00",
+      "module": "TDM1",
+      "salle": "CP4",
+      "enseignant": "Mr.Mostefai"
+    },
+    {
+      "seanceId": 6,
+      "jour": "15-05-2020",
+      "semaine": "3",
+      "heureD": "09:00",
+      "heureF": "12:00",
+      "module": "TDM2",
+      "salle": "CP5",
+      "enseignant": "Mr.Mostefai"
+    },
+    {
+      "seanceId": 7,
+      "jour": "16-05-2020",
+      "semaine": "3",
+      "heureD": "10:00",
+      "heureF": "12:00",
+      "module": "COMP",
+      "salle": "DPGR",
+      "enseignant": "Mr.Chebeib"
+    },
+    {
+      "seanceId": 8,
+      "jour": "17-05-2020",
+      "semaine": "3",
+      "heureD": "11:00",
+      "heureF": "12:00",
+      "module": "Python",
+      "salle": "S15",
+      "enseignant": "Mr.Challal"
+    }
+  ]
+}
